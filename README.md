@@ -7,7 +7,11 @@ The dataset includes **5 classes**:
 - Hello
 - I Love You
 - Thank You
-
+- 
+## 📜 License
+- Code is licensed under the [MIT License](LICENSE).  
+- Dataset is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+- 
 ## 📂 Dataset
 - 125 labeled images
 - YOLO format (images + labels + data.yaml)
