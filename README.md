@@ -23,8 +23,7 @@ pip install -r requirements.txt
 from ultralytics import YOLO
 model = YOLO("yolov8n.pt")
 model.train(data="data.yaml", epochs=50, imgsz=640, batch=8)
-
-
+```
 
 ## 🖥️ Running the Streamlit App
 
@@ -37,6 +36,7 @@ A simple **Streamlit demo** is included (`app.py`) so you can test the trained m
    python -m venv venv
    venv\Scripts\activate   # On Windows
    source venv/bin/activate  # On Linux/Mac
+```
 
 Install dependencies:
 bash
