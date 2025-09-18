@@ -1,0 +1,7 @@
+zipfile
+os
+ultralytics
+albumentations
+opencv-python
+matplotlib
+pyyaml
