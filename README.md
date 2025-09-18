@@ -13,7 +13,7 @@ The dataset includes **5 classes**:
 - YOLO format (images + labels + data.yaml)
 - Split into train / val / test
 
-Dataset available here: [Kaggle Dataset Link]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/mhmd1424/sign-language-detection-dataset-5-classes))
+Dataset available here: [Kaggle Dataset Link](https://www.kaggle.com/datasets/mhmd1424/sign-language-detection-dataset-5-classes)
 
 ## 🚀 Training
 ```bash
