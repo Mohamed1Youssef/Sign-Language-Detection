@@ -13,7 +13,7 @@ The dataset includes **5 classes**:
 - YOLO format (images + labels + data.yaml)
 - Split into train / val / test
 
-Dataset available here: [Kaggle Dataset Link](https://www.kaggle.com/your-dataset-link)
+Dataset available here: [Kaggle Dataset Link]([https://www.kaggle.com/your-dataset-link](https://www.kaggle.com/datasets/mhmd1424/sign-language-detection-dataset-5-classes))
 
 ## 🚀 Training
 ```bash
@@ -50,5 +50,5 @@ streamlit run app.py
 Update the path to your trained model (best.pt) inside app.py before running.
 
 Example:
-python
+```python
 model = YOLO("runs/detect/train/weights/best.pt")
