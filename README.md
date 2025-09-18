@@ -36,16 +36,16 @@ A simple **Streamlit demo** is included (`app.py`) so you can test the trained m
    python -m venv venv
    venv\Scripts\activate   # On Windows
    source venv/bin/activate  # On Linux/Mac
-```
 
-Install dependencies:
-bash
+
+2.Install dependencies:
+```bash
 pip install -r requirements.txt #might be optional
-
-Run the Streamlit app:
-bash
+```
+3.Run the Streamlit app:
+```bash
 streamlit run app.py
-
+```
 ⚠️ Important
 Update the path to your trained model (best.pt) inside app.py before running.
 
